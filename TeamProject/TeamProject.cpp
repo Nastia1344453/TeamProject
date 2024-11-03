@@ -1,7 +1,6 @@
 #include <iostream>
 
-int main()
+int add(int a, int b) 
 {
-    std::cout << "Hello World!\n";
+    return a + b;
 }
-
